@@ -25,10 +25,10 @@ This repository contains the svg file for the case I made for my coin acceptor (
 ## Train coin acceptor
 - Power and train the coin acceptor with the coins you wish to accept as described by adafruit (https://learn.adafruit.com/arcade-coin-op/train-the-coin-acceptor)
 - I trained mine as follows:
-- penny - 1 pulse
-- nickle - 5 pulses
-- dime - 10 pulses
-- quarter - 25 pulses
+  - penny - 1 pulse
+  - nickle - 5 pulses
+  - dime - 10 pulses
+  - quarter - 25 pulses
 
 ## Software
 - download and install both arduino libraries required for the display backpack from adafruit (https://learn.adafruit.com/adafruit-led-backpack/downloads).
