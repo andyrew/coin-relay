@@ -17,7 +17,7 @@ Inserting coins into the coin acceptor turns on the relay controlled outlet and 
 I use proto shields for most of my projects. I start with a breadboard to make sure I've connected everything properly and that it works, then I soldier everything to a proto-shield for longeviety.
 
 ## Case
-This repository contains the svg file for the case I made for my coin acceptor (CoinRelayBox.svg). This was cut out of 2.92mm thick cardboard with a laser cutter.
+This repository contains the svg file for the case I made for my coin acceptor (CoinRelayBox.svg). This was cut out of 2.92mm thick correguated cardboard (Amazon boxes) with a laser cutter.
 
 ## Connecting
 - For simplicity, power the arduino with the 12V power supply to the barrel connector, and connect the red wire of the coin acceptor to the Vin pin on the arduino. The Arduino Vin pin is connected to the power supply before the rectifier, so it will output 12V if the arduino is powered with a 12V supply. 
