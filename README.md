@@ -2,7 +2,7 @@
 A coin operated relay switch, initially to operate christmas tree lights but can be used to operate any plug load.
 Inserting coins into the coin acceptor turns on the relay controlled outlet and adds time to the timer. When the timer runs out, the relay turns off the outlet. What ever you'd like to control with the coin acceptor can be plugged into the relay outlet.
 
-## Hardware Components:
+## Hardware Components ($112):
 - Coin Acceptor (https://www.adafruit.com/product/787)
 - Relay Controlled outlet (https://www.adafruit.com/product/2935)
 - 7-segment display with I2C backpack (https://www.adafruit.com/product/878)
