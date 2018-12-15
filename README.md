@@ -14,7 +14,7 @@ For $112 in parts and about 6 hours of time, you to can nickel and dime your fam
 - wire (https://www.adafruit.com/product/2051)
 - 12V power supply (https://www.adafruit.com/product/798)
 
-Optional ($10):
+### Optional Components ($10):
 - Arduino proto shield (https://www.adafruit.com/product/2077)
 I use proto shields for most of my projects. I start with a breadboard to make sure I've connected everything properly and that it works, then I soldier everything to a proto-shield for longeviety.
 
