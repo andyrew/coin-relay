@@ -3,7 +3,7 @@ Inserting coins into the coin acceptor turns on the relay controlled outlet and 
 
 I initially used this project to operate our christmas tree lights, but can be used to operate any plug load.
 
-For $112 in parts and about 6 hours of time, you to can nickel and dime your family!
+For $112 in parts and about 6 hours of time, you too can nickel and dime your family!
 
 ## Hardware Components ($102):
 - Coin Acceptor (https://www.adafruit.com/product/787)
