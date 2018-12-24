@@ -1,13 +1,13 @@
 # coin-relay: A Coin Operated Relay Switch
 Inserting coins into the coin acceptor turns on the relay controlled outlet and adds time to the timer. When the timer runs out, the relay turns off the outlet. What ever you'd like to control with the coin acceptor can be plugged into the relay outlet. I initially used this project to operate our christmas tree lights, but can be used to operate any plug load.
 
-#### For $112 in parts and about 6 hours of time, you too can nickel and dime your family!
+#### For $114 in parts and about 6 hours of time, you too can nickel and dime your family!
 
-## Hardware Components ($102):
+## Hardware Components ($104):
 - Coin Acceptor (https://www.adafruit.com/product/787)
 - Relay Controlled outlet (https://www.adafruit.com/product/2935)
 - 7-segment display with I2C backpack (https://www.adafruit.com/product/878)
-- Arduino Uno, or similar (https://www.adafruit.com/product/2488)
+- Arduino Uno (http://a.co/d/edHdN7I)
 - 10 kohm resistor (https://www.adafruit.com/product/2784)
 - wire (https://www.adafruit.com/product/2051)
 - 12V power supply (https://www.adafruit.com/product/798)
