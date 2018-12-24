@@ -19,11 +19,12 @@ Inserting coins into the coin acceptor turns on the relay controlled outlet and 
 I use proto shields for most of my projects. I start with a breadboard to make sure I've connected everything properly and that it works, then I soldier everything to a proto-shield for longeviety.
 
 ## Connecting
-- For simplicity, power the arduino with the 12V power supply to the barrel connector, and connect the red wire of the coin acceptor to the Vin pin on the arduino. The Arduino Vin pin is connected to the power supply before the rectifier, so it will output 12V if the arduino is powered with a 12V supply. 
+- For simplicity, power the arduino with the 12V power supply to the barrel connector, and connect the red wire of the coin acceptor to the Vin pin on the arduino. The Arduino Vin pin is connected to the power supply before the rectifier, so it will output 12V if the arduino is powered with a 12V supply.
 - Connect the coin acceptor's black wire to the ground pin of the Arduino.
 - Connect the coin acceptor's grey wire to digital pin 2 of Arduino.
 - Connect the coin acceptor's white wire to one end of the 10 kohm resistor. Connect the other end of the resistor to 5V on the arduino.
 - Connect the 7-segment display to the arduino as described by adafruit (https://learn.adafruit.com/adafruit-led-backpack/0-dot-56-seven-segment-backpack).
+- Plug the 12V power supply into the always on outlet of the relay controlled outlet. Plug your load (christmas tree) into the normally off outlet of the relay controlled outlet.
 
 ## Train the coin acceptor
 - Power and train the coin acceptor with the coins you wish to accept as described by adafruit (https://learn.adafruit.com/arcade-coin-op/train-the-coin-acceptor)
