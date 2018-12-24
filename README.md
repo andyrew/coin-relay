@@ -1,6 +1,5 @@
 # coin-relay: A Coin Operated Relay Switch
-<img src="https://github.com/andyrew/coin-relay/blob/master/photos/IMG_5289.jpg" width="40%" alt="Coin Operated Relay">
-<img src="https://github.com/andyrew/coin-relay/blob/master/photos/IMG_5292.jpeg" width="40%" alt="Coin Operated Relay with Christmas Tree">
+<img src="https://github.com/andyrew/coin-relay/blob/master/photos/IMG_5289.jpg" width="40%" alt="Coin Operated Relay"> <img src="https://github.com/andyrew/coin-relay/blob/master/photos/IMG_5292.jpeg" width="40%" alt="Coin Operated Relay with Christmas Tree">
 Inserting coins into the coin acceptor turns on the relay controlled outlet and adds time to the timer. When the timer runs out, the relay turns off the outlet. What ever you'd like to control with the coin acceptor can be plugged into the relay outlet. I initially used this project to operate our christmas tree lights, but can be used to operate any plug load.
 
 #### For $114 in parts and about 6 hours of time, you too can nickel and dime your family!
