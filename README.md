@@ -46,4 +46,4 @@ I use proto shields for most of my projects. I start with a breadboard to make s
 ## Case
 This repository contains the svg file for the case I made for my coin acceptor (CoinRelayBox.svg). This was cut out of 2.92mm thick correguated cardboard (Amazon boxes) with a laser cutter.
 
-<img src="https://github.com/andyrew/coin-relay/blob/master/CoinRelayBox.svg" width="45%" alt="Case SVG File"><img src="https://github.com/andyrew/coin-relay/blob/master/photos/IMG_5290.jpg" width="55%" alt="Case SVG File">
+<img src="https://github.com/andyrew/coin-relay/blob/master/CoinRelayBox.svg" width="45%" alt="Case SVG File"> <img src="https://github.com/andyrew/coin-relay/blob/master/photos/IMG_5290.jpg" width="52%" alt="Case SVG File">
